@@ -3,7 +3,6 @@
 /*
  * This the file that will be run!
  * @author Justin Hwang
- * @credits ChatGP
  */
 
 public class March84G{
@@ -262,7 +261,7 @@ public class March84G{
                     }
                 }
                 break;
-                case 6: //This one can do arrays n stuff. Good ol' CS111 practices.
+                case 6: //This one can do arrays n stuff.
                     //ALWAYS put break; after the case ends. else it'll print "invalid option" at
                     //the end of the output.
 
